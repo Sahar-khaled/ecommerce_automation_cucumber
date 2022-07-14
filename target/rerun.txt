@@ -1,0 +1,2 @@
+file:src/main/resources/features/F02_Login.feature:5
+file:src/main/resources/features/F03_PaymentProcess.feature:3
